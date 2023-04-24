@@ -1,5 +1,5 @@
-3 - Pig Game
+2 - Pig Game
 
-Project done with HTML, CSS and Javascript, focus on DOM manipulation and event listeners.
+JavaScript project.
 
-https://3-piggame.netlify.app/
+https://2-piggame.netlify.app/
